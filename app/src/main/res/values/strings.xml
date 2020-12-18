@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExerciseLoginRegister</string>
+    <string name="error_user_empty">Username cannot be empty</string>
+    <string name="error_user_less_length">Username should be atleast 5 characters</string>
+    <string name="error_pass_empty">Password cannot be empty</string>
+    <string name="error_pass_less_length">Password should be atleast 5 characters</string>
+    <string name="error_email_empty">Email cannot be empty</string>
+    <string name="error_email_wrong">Email pattern is wrong</string>
+    <string name="error_phn_empty">Phone Number cannot be empty</string>
+    <string name="error_phn_wrong">Phone number pattern is wrong</string>
+    <string name="success_login">You have successfully logged In!!</string>
+    <string name="password_dont_match">Password do not match</string>
+</resources>
